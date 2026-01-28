@@ -1,5 +1,7 @@
 2025-2026 C21838 ElKheit Mohamed Babaha MLDS
 
+Rapport De Projet
+
 Ce mini=projet consiste  à  appliquer deux methodes de regression, notmment la regression lineaire et la regression logistique  à  deux datasets qui sont beginner friendly.
 
 Dans le cadre de la regression lineaire, nous avons fait appel  à  des bibliotheque Python afin d'explorer et traiter les donnees du dataset Medical Insurance Cost.
